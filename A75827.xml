@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July 8. 1648. A true relation sent to the Honorable committee at Derby-House of the great victory of the Parliaments forces against those of Surrey: where was about twenty slain, amongst whom the Lord Francis is one, and two or three eminent persons, one hundred taken prisoners, and two hundred horse, and their carriages. Die Saturni, 8 Julii, 1648. At a committee of Lords and Commons at Derby-House. Ordered, that this relation be forthwith printed and published. Gualther Frost Secr'</title>
+            <author>Awdeley, Lewis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75827</idno>
+            <idno type="STC">Wing A4279</idno>
+            <idno type="STC">Thomason E451_30</idno>
+            <idno type="STC">ESTC R205278</idno>
+            <idno type="EEBO-CITATION">99864694</idno>
+            <idno type="PROQUEST">99864694</idno>
+            <idno type="VID">116926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116926)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>July 8. 1648. A true relation sent to the Honorable committee at Derby-House of the great victory of the Parliaments forces against those of Surrey: where was about twenty slain, amongst whom the Lord Francis is one, and two or three eminent persons, one hundred taken prisoners, and two hundred horse, and their carriages. Die Saturni, 8 Julii, 1648. At a committee of Lords and Commons at Derby-House. Ordered, that this relation be forthwith printed and published. Gualther Frost Secr'</title>
+                  <author>Awdeley, Lewis.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 8. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Lewes Awdeley.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116926:1" rendition="simple:additions"/>
+            <p>
+               <hi>J<g ref="char:V">Ʋ</g>LY</hi> 8. 1648.</p>
+            <p>A TRUE RELATION Sent to the Honorable Committee AT <hi>DERBY-HO<g ref="char:V">Ʋ</g>SE</hi> OF THE GREAT VICTORY OF The Parliaments Forces againſt thoſe of SURREY: Where was about Twenty ſlain, amongſt whom the Lord <hi>Francis</hi> is one, and two or three eminent Perſons, One hundred taken Priſoners, and Two hundred Horſe, and their Carriages.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Die Saturni,</hi> 8 <hi>Julii,</hi> 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>At a Committee of Lords and Commons at <hi>Derby-Houſe.</hi>
+                  </p>
+                  <p>
+                     <hi>ORdered, That this Relation be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>GUALTHER FROST Secr'</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons, <hi>July</hi> 8. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116926:2"/>
+            <pb n="3" facs="tcp:116926:2"/>
+            <head>A true Relation of the great Vi<g ref="char:EOLhyphen"/>ctory of the Parliaments Forces againſt thoſe of <hi>Surrey.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T pleaſed the Right Hono<g ref="char:EOLhyphen"/>rable Committee of Derby Houſe to employ me in the buſines concerning the pro<g ref="char:EOLhyphen"/>ceedings of their Enemies in Surrey, and Sir <hi>Michael Leveſey</hi> hath ſent me to make this Relation.</p>
+            <p>Upon Thurſday laſt by one of the clock he ſent Three Troops of his own Regiment with me from Hounſloe to Rigat, to poſſeſs my Lord <hi>Monſons</hi> Ca<g ref="char:EOLhyphen"/>ſtle, and alſo to prevent the Enemies in<g ref="char:EOLhyphen"/>tentions at their pretended Horſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-race upon Banſtead Downs; but notwith<g ref="char:EOLhyphen"/>ſtanding our haſte, the Enemy got in be<g ref="char:EOLhyphen"/>fore us, to the number of Six hundred, as we made them when they drew forth o'th Town; and we beat off their Guard
+<pb n="4" facs="tcp:116926:3"/>from Red-hill, and faced them upon the ſame: The Enemy was afraid of us, and we of them, doubting them too ſtrong for us to handle: So that I ſent to Sir <hi>Michael Leveſey</hi> and Major <hi>Gibbons,</hi> to ſpeed up with all the force which might be, who accordingly with much chear<g ref="char:EOLhyphen"/>ful readineſs performed it Major <hi>Gib<g ref="char:EOLhyphen"/>bons</hi> the ſame night marcht to Rigat, thinking to meet with the former ſaid Three Troops, but he found the Town neglected by us, and alſo quitted by the Enemy.</p>
+            <p>Upon Friday morning the Enemy having Intelligence, That none of the Parliaments Forces had entred the town, very early marched from Darking with their whole Forces, thinking to poſſeſs Riga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> again, and had ſo done, had not Major <hi>Gibbons</hi> with his own Troop, and two of Col: <hi>Riches</hi> entred the place be<g ref="char:EOLhyphen"/>tween the Intelligence and their march, but finding themſelves deceived, they marcht the ready road for Kingſton:
+<pb n="5" facs="tcp:116926:3"/>About Two hours after this, the whole Forces for the Parliament: <hi>(viz.)</hi> Five Troops of Horſe and Three Foot com<g ref="char:EOLhyphen"/>panies of ſir <hi>Michael Leveſeys</hi> regiments, two Troops of Col: <hi>Riches</hi> with Major <hi>Gibbons</hi> his own Troop, marcht from their Rendezvous at Red-hill within half a mile of Rigat, and made ſuch haſte that our Forlorn of Horſe were ready to tread upon their heels before they got to Ewel, and had ſome ſmall skirmiſh with the Enemy in the Town, took ſome ſix Horſes, and as many priſoners, and ſo urged the Enemy upon the march, that they took many others near Nonſuch park. Sir <hi>Mich: Leveſey</hi> ſeeing the Enemy make more haſte then good ſpeed, proſe<g ref="char:EOLhyphen"/>cuted them the more ſharply with his Van Diviſion of Horſe: The Enemy drew up their Horſe upon a Hill in the midway between <hi>Nonſuch</hi> and <hi>King<g ref="char:EOLhyphen"/>ſton,</hi> and faced us; our Van Diviſion of Horſe drew near them in good order, both Parties ſending out ſingle men,
+<pb n="6" facs="tcp:116926:4"/>who plaid valiantly, whileſt the Bodies on either ſide ſeemed to ſtand in ſu<g ref="char:EOLhyphen"/>ſpence; our Commander in chief had reaſon to ſuſpend the Fight till his Foot and his Rear-diviſion of Horſe vvere come up, beſides we were to clamber a pretty Hill: Yet at laſt Providence guiding us, our Forlorn advanced, con<g ref="char:EOLhyphen"/>ſiſting of Fifty Horſe, commanded by a Cornet in Colonel <hi>Riches</hi> Regiment, who charging the enemy with much re<g ref="char:EOLhyphen"/>ſolution, was as gallantly received, Ma<g ref="char:EOLhyphen"/>jor <hi>Gibbons</hi> ſeconded him with his own Troop, and by it ſpoiled the Enemies hopes, the reſt of the Forces followed of that firſt diviſion, and wholly rout<g ref="char:EOLhyphen"/>ted the Enemy; it was as ſharp a charge (whileſt it endured) as ever I ſaw ſince theſe unhappy Wars in <hi>England;</hi> the pur<g ref="char:EOLhyphen"/>ſuit was violently maintained, and had not the Enemy ordered their flight bet<g ref="char:EOLhyphen"/>ter then their march, our Horſe had fell into <hi>Kingſton</hi> with them, but they ſent their Foot beforehand into <hi>Kingſton,</hi>
+               <pb n="7" facs="tcp:116926:4"/>who at our entrance into the Town repulſed us at the Turnpike, and our Foot not being yet come up, Sir <hi>Michael Leveſey</hi> drew up ſeveral Diviſions of Horſe in the lane before <hi>Kingſton,</hi> think<g ref="char:EOLhyphen"/>ing to fall upon them that night, but the Foot came not up ſeaſonably: we ſuppoſed the Enemy had prepared too well for us, ſo that we drew off all, ſave one Guard of Horſe into a Cloſe within half a mile of the Market-place, think<g ref="char:EOLhyphen"/>ing to make ſome further attempt this morning, but the Enemy anſwering not our Alarum, the Guard of Horſe advan<g ref="char:EOLhyphen"/>ced into the Town, and found it quit of the Enemy; they left near one hun<g ref="char:EOLhyphen"/>dred Horſe in the Town, with their Carriages, and placed a cart full of ſeage and other combuſtible matter upon the Bridge, for favoring their flight, over which they are march'd.</p>
+            <p>There were about Twenty ſlain, amongſt whom the Lord <hi>Francis</hi>
+               <pb n="8" facs="tcp:116926:5"/>is one, and two or three other eminent perſons.</p>
+            <p>There was taken of priſoners about One hundred.</p>
+            <p>Of Horſe Two hundred.</p>
+            <p>The Enemies ſtrength left him I conceive Three or Four hun<g ref="char:EOLhyphen"/>dred.</p>
+            <p>This Account is witneſſed by <hi>Lewes Awdeley</hi> Major.</p>
+            <p>
+               <hi>Sir</hi> Michael Leveſey <hi>anſwered my deſire, in leaving twenty Foot Soldiers for a guard at</hi> Rigat Caſtle, <hi>Mr.</hi> Fenneck <hi>a Countrey Gentleman hath the ordering them, until the Honorable Committee ſhall otherwiſe appoint.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
